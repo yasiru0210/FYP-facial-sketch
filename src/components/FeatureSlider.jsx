@@ -2,7 +2,7 @@ import React from 'react';
 import { Card, CardContent, CardHeader, CardTitle } from './ui/card';
 import { Label } from './ui/label';
 import { Slider } from './ui/slider';
-import { Eye, Nose, Smile, Minus, User } from 'lucide-react';
+import { Eye, DoorClosed as Nose, Smile, Minus, User } from 'lucide-react';
 
 const featureIcons = {
   eyes: Eye,
